@@ -3,17 +3,48 @@
 In this repository, the recommended colours, fonts, and other imagery (logos), is present, as well as ways to use them.
 
 ## Contents
+- Logos and Imagery
+  - Emblem and the seal
+  - Wordmark
 - Fonts
 - Colours
   - Light theme (default)
   - Dark theme
+  - Extras
 - Examples
   - Instagram posts
   - Custom ideas
+- Notes on specific files
+  - `seal-colourful.svg`
+
+## Logos and Imagery
+
+### Emblem and the seal
+The version of the logo without the surrounding text is known as the 'emblem', whilst the version of the logo with the surrounding 'Linux User Group' 'University of Auckland' text is known as the seal.
+
+The seal should only be used when the text is sufficiently large enough to make the text visible. Otherwise, the wordmark should be used.
+
+If no text is needed, the emblem can be used.
+
+### Wordmark
+
+**Full wordmark:** 'University of Auckland' Fira Mono, regular weight 30pt w/ -10% letter spacing. 'Linux User Group' Lato, black weight, 36pt
+
+**Abbreviated wordmark:** Lato, black weight, 48pt
+
+The emblem should be at least 16px away from the text. The emblem can either be on the left or right of the text (just make sure to align the text accordingly)
 
 ## Fonts
 
-We use `Lato` for headings and paragraph text, and `Fira Code` for monospace fonts.
+Sans-serif: `Lato`
+
+Monospace: `Fira Code`
+
+Any serif font is acceptable.
+
+We use sans-serif for headings and paragraph text, and monospace for code and other graphics which require monospace fonts.
+
+> Any fonts which look similar are fine, just ensure that the number of different fonts on a design is low.
 
 ## Colours
 
@@ -23,11 +54,11 @@ We use `Lato` for headings and paragraph text, and `Fira Code` for monospace fon
 
 | Background | Content | Alternative Background | Accent |
 |-|-|-|-|
-| `#FFFFFF` | `#000000` | `#7accb7` | `#28cca3` |
+| `#FFFFFF` | `#000000` | `#90ccbd` | `#3fcca8` |
 
 > Alternative background: Accent - 40 Saturation
 >
-> `HSV(165, 80, 80)` -> `HSV(160, 40, 80)`
+> `HSV(165, 69, 80)` -> `HSV(165, 29, 80)`
 
 ![Light theme colour palette](branding-toolkits/light-theme-palette.png)
 
@@ -35,14 +66,26 @@ We use `Lato` for headings and paragraph text, and `Fira Code` for monospace fon
 
 | Background | Content | Alternative Background | Accent |
 |-|-|-|-|
-| `#000000` | `#FFFFFF` | `#146651` | `#28cca3` |
+| `#000000` | `#FFFFFF` | `#1f6654` | `#3fcca8` |
 
 
 > Alternative background: Accent - 40 Value
 >
-> `HSV(165, 80, 80)` -> `HSV(160, 80, 40)`
+> `HSV(165, 69, 80)` -> `HSV(165, 69, 40)`
 
 ![Dark theme colour palette](branding-toolkits/dark-theme-palette.png)
+
+### Extras
+
+We also have extra colours if required, but please ensure to keep theming consistent when used.
+
+```
+#FFA300 - Yellow
+#E6E6E6 - Cream/off-white
+#6290C3 - Light blue
+#1A1B41 - Dark/navy blue
+#881600 - Crimson
+```
 
 ## Examples
 
@@ -85,3 +128,8 @@ At this point in time, our accent colours weren't finalised, but we still did us
 > *Fun fact: the output is simply SuperTuxKart being run in a terminal*
 
 ![SuperTuxKart tournament poster](misc/supertuxkart-tournament-poster.png)
+
+## Notes on specific files
+
+### `seal-colourful.svg`
+Note that the colourful border might not render correctly in Inkscape and most image viewers (it will correctly render in most common browsers). If so, a PNG version is provided for use.
