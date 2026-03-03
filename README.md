@@ -4,7 +4,7 @@ In this repository, the recommended colours, fonts, and other imagery (logos), i
 
 ## Contents
 - Logos and Imagery
-  - Emblem and the seal
+  - Emblem and the badge
   - Wordmark
 - Fonts
 - Colours
@@ -15,19 +15,19 @@ In this repository, the recommended colours, fonts, and other imagery (logos), i
   - Instagram posts
   - Custom ideas
 - Notes on specific files
-  - `seal-colourful.svg`
+  - `emblem-colourful.svg`
 
 ## Logos and Imagery
 
-### Emblem and the seal
+### Emblem and the badge
 
-The version of the logo without the surrounding text is known as the 'emblem', whilst the version of the logo with the surrounding 'Linux User Group' 'University of Auckland' text is known as the seal.
+The version of the logo without the surrounding text is known as the 'emblem', whilst the version of the logo with the surrounding 'Linux User Group' 'University of Auckland' text is known as the badge.
 
-| *Emblem* | *Seal* |
+| *Emblem* | *Badge* |
 |-|-|
-| ![LUG@UoA Emblem](logos/emblem-colourful.svg) | ![LUG@UoA Seal](logos/seal.svg) |
+| ![LUG@UoA Emblem](logos/emblem-colourful.svg) | ![LUG@UoA Badge](logos/badge.svg) |
 
-The seal should only be used when the text is sufficiently large enough to make the text visible. Otherwise, the wordmark should be used.
+The badge should only be used when the text is sufficiently large enough to make the text visible. Otherwise, the wordmark should be used.
 
 If no text is needed, the emblem can be used.
 
@@ -140,5 +140,5 @@ At this point in time, our accent colours weren't finalised, but we still did us
 
 ## Notes on specific files
 
-### `seal-colourful.svg`
+### `emblem-colourful.svg`
 Note that the colourful border might not render correctly in Inkscape and most image viewers (it will correctly render in most common browsers). If so, a PNG version is provided for use.
