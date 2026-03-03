@@ -51,7 +51,7 @@ Monospace: `Fira Code`
 
 Any serif font is acceptable.
 
-We use sans-serif for headings and paragraph text, and monospace for code and other graphics which require monospace fonts.
+We use sans-serif for paragraph text, and monospace for code and other graphics which require monospace fonts. Headings and titles can use either sans-serif, serif, or monospace fonts, but usage must be consistent throughout the design.
 
 > Any fonts which look similar are fine, just ensure that the number of different fonts on a design is low.
 
