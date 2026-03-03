@@ -20,7 +20,12 @@ In this repository, the recommended colours, fonts, and other imagery (logos), i
 ## Logos and Imagery
 
 ### Emblem and the seal
+
 The version of the logo without the surrounding text is known as the 'emblem', whilst the version of the logo with the surrounding 'Linux User Group' 'University of Auckland' text is known as the seal.
+
+| *Emblem* | *Seal* |
+|-|-|
+| ![LUG@UoA Emblem](logos/emblem-colourful.svg) | ![LUG@UoA Seal](logos/seal.svg) |
 
 The seal should only be used when the text is sufficiently large enough to make the text visible. Otherwise, the wordmark should be used.
 
@@ -30,7 +35,11 @@ If no text is needed, the emblem can be used.
 
 **Full wordmark:** 'University of Auckland' Fira Mono, regular weight 30pt w/ -10% letter spacing. 'Linux User Group' Lato, black weight, 36pt
 
+![LUG@UoA logo with club name text](logos/wordmark-full.svg)
+
 **Abbreviated wordmark:** Lato, black weight, 48pt
+
+![LUG@UoA logo with club name text](logos/wordmark-abbreviated.svg)
 
 The emblem should be at least 16px away from the text. The emblem can either be on the left or right of the text (just make sure to align the text accordingly)
 
