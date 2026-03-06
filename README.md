@@ -3,6 +3,7 @@
 In this repository, the recommended colours, fonts, and other imagery (logos), is present, as well as ways to use them.
 
 ## Contents
+- Licensing
 - Logos and Imagery
   - Emblem and the badge
   - Wordmark
@@ -16,6 +17,10 @@ In this repository, the recommended colours, fonts, and other imagery (logos), i
   - Custom ideas
 - Notes on specific files
   - `emblem-colourful.svg`
+
+## Licensing
+
+All files in this repository are licensed under `CC-BY-NC-SA-4.0` (see `/LICENSE`), apart from the files in the folder `/misc/STK/`, which are licensed under `CC-BY-SA-4.0` (see `/misc/STK/LICENSE`).
 
 ## Logos and Imagery
 
