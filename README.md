@@ -117,11 +117,11 @@ Note the below:
 
 **Clubs Expo 2026**
 
-![Instagram format of the 2026 clubs expo advertising](misc/clubs-expo-2026-instagram.png)
+![Instagram format of the 2026 clubs expo advertising](misc/instagram/clubs-expo-2026.png)
 
 **Extraordinary Annual General Meeting 2025**
 
-![Instagram format of the 2025 Extraordinary AGM advertising](misc/e-agm-2025-instagram.png)
+![Instagram format of the 2025 Extraordinary AGM advertising](misc/instagram/e-agm-2025.png)
 
 
 > Both images used in the background are from my (`parmjotsinghrobot`) private collection, and I am not sure on the legality of using these for commercial (or anything really), so I am looking for good options for future posts.
@@ -136,7 +136,7 @@ At this point in time, our accent colours weren't finalised, but we still did us
 
 > *Fun fact: the output is simply SuperTuxKart being run in a terminal*
 
-![SuperTuxKart tournament poster](misc/supertuxkart-tournament-poster.png)
+![SuperTuxKart tournament poster](misc/STK/tournament-poster.png)
 
 ## Notes on specific files
 
